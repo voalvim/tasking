@@ -1,2 +1,2 @@
 # tasking
-A task management web-app, build using Java with Spring.
+A task management web-app, built using Java with Spring.
